@@ -21,6 +21,11 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-cloudtrail": "^1.130.0",
+    "@aws-cdk/aws-codepipeline": "^1.130.0",
+    "@aws-cdk/aws-codepipeline-actions": "^1.130.0",
+    "@aws-cdk/aws-iam": "^1.130.0",
+    "@aws-cdk/aws-s3": "^1.130.0",
     "@aws-cdk/core": "1.130.0",
     "source-map-support": "^0.5.16"
   }
